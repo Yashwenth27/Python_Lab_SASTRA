@@ -4,8 +4,7 @@ st.set_page_config(
         page_icon="snake",
         layout="wide",
     )
-st.title("Python Lab Codes")
-st.subheader("An initiative by Zenovation")
+st.subheader("Python Lab Codes - An initiative by Zenovation")
 st.markdown('<hr style="border-top: 2px solid #0074D9;">', unsafe_allow_html=True)
 a,b,c = st.columns(3)
 
