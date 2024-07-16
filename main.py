@@ -5,7 +5,7 @@ st.set_page_config(
         layout="wide",
     )
 st.title("Python Lab Codes")
-st.title("An initiative by Zenovation")
+st.subheader("An initiative by Zenovation")
 st.markdown('<hr style="border-top: 2px solid #0074D9;">', unsafe_allow_html=True)
 a,b,c = st.columns(3)
 
