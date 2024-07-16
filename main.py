@@ -1,4 +1,9 @@
 import streamlit as st
+st.set_page_config(
+        page_title="Python Lab Codes",
+        page_icon="snake",
+        layout="wide",
+    )
 st.title("Python Lab Codes")
 st.write("---")
 a,b,c = st.columns(3)
