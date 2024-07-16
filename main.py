@@ -10,7 +10,7 @@ a,b,c = st.columns(3)
 
 with a:
     with st.container(border=True):
-        st.subheader("Lab - 1 16th July 2024)
+        st.subheader("Lab-1 16th July 2024")
         with st.expander("Area of Triangle"):
             st.code('''
 #Write a Python program that takes the base and height of a triangle as input
