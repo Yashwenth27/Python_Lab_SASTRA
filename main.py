@@ -6,6 +6,7 @@ st.set_page_config(
     )
 st.header("Python Lab Codes - An initiative by Zenovation")
 st.markdown('<hr style="border-top: 2px solid #0074D9;">', unsafe_allow_html=True)
+st.markdow('<marquee>NOT FOR ABIJITH AND KAVIYA</marquee>', unsafe_allow_html=True)
 a,b,c = st.columns(3)
 
 with a:
